@@ -1,4 +1,5 @@
 # Arquitetura de Microsserviços - Desafio DIO
+### Feito Completamente em vibe-coding////
 
 Este projeto implementa uma arquitetura de microsserviços em Java utilizando Spring Boot, demonstrando comunicação síncrona via HTTP e assíncrona via RabbitMQ entre os serviços **Warehouse** (Armazém) e **Storefront** (Vitrine).
 
